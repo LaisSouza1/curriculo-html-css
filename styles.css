@@ -1,0 +1,87 @@
+body{
+    background-color: #e0e1dd;
+    font-family: 'Montserrat', sans-serif;
+    color: #778da9;
+}
+
+.conteiner {
+    display: flex;
+    
+}
+
+h1{
+    color: #1b263b;
+    text-align: center;
+    
+}
+
+h3{
+    color: #1b263b;
+    text-align: justify;
+    margin-top: 3%;
+}
+
+.nome{
+    color: #1b263b;
+    margin: 15px;
+    
+}
+
+.bio {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.lista {
+    color: #778da9;
+        
+}
+
+table {
+    text-align: center;
+    border: 2px;
+    border: double;
+    border-color: #778da9;
+}
+
+tr {
+    
+    width: 30%;
+    font-weight: 30%;
+    
+}
+
+th {
+    border: 2px;
+    border: double;
+    border-color: #778da9;
+}
+
+td {
+    color: #778da9;
+    border: double;
+    border-color: #778da9;
+    border-style: double;
+    
+}
+
+#mensagem {
+    font-family: 'Montserrat';
+    font-style: bold;
+    color: #778da9;
+}
+
+.logo-github {
+    font-size: 28px;
+    margin-right: 10px;
+}
+
+.logo-linkedin {
+    font-size: 28px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.links {
+    text-decoration: none;
+}
